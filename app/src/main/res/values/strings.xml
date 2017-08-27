@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ValidateActivity</string>
+    <string name="exit" />
+    <string name="go_to_activity2" />
+</resources>
